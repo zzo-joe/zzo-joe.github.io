@@ -8,3 +8,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Category"
+    children:
+      - title: "github_blog"
+        url: "/github_blog"
+      - title: "single-cell"
+        url:  "/single-cell"
+      - title: "transcriptome-analysis"
+        url:  "/transcriptome-analysis"
